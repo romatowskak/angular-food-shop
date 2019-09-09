@@ -1,0 +1,41 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+    padding: 80px;
+    color: #2e302c;
+}
+
+.list-group-item {
+    color: #646464;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #74b030;
+    border-color: #74b030;
+}
+
+.fa {
+    color: #74b030;
+}
+
+li>a>i {
+    margin-right: 7px;
+}
+
+ul>li>a {
+    color: #646464;
+    font-size: 1.1em;
+}
+
+ul>li>a:hover {
+    font-size: 1.2em;
+}
+
+nav .container .first {
+    margin-left: -40px;
+}
+
+nav .container .second {
+    margin-right: -10px;
+}

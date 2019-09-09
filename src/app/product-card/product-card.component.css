@@ -1,0 +1,19 @@
+.card {
+    margin-bottom: 30px;
+    width: 410px;
+}
+
+.card-footer {
+    padding: 0;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.quantity {
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+}
